@@ -7,3 +7,5 @@ wagon-intro-sur-gems
   * pour une dependence c'est `add_dependency`
 * `bundle install`
 * `bundle console` pour avoir la meme chose que `rails console` mais dans mom code. 
+* `rake -T` pour lister les taches dispo
+* `rake publish` pour envoyer la sauce sur RubyGems.org
